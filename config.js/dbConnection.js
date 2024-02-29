@@ -16,7 +16,4 @@ const connectDb = async () => {
 
 module.exports = connectDb;
 
-// project name : backendapi
-// cluster name : sameerCluster
-// database name : mycontacts-backend
-// collection name : contacts
+
